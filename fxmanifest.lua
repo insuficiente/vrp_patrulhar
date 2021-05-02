@@ -26,14 +26,6 @@ author "insuficiente#0001"
 author "https://github.com/insuficiente"
 author "https://discord.gg/jqpmr5FRuT"
 
-client_scripts {
-	'@vrp/lib/utils.lua',
-	'lib/Tunnel.lua',
-	'lib/Proxy.lua',
-	'config.lua',
-	'cliente/main.lua'
-}
-
 server_scripts {
 	'lib/Tunnel.lua',
 	'lib/Proxy.lua',
