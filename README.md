@@ -15,13 +15,13 @@ Eu sou
 <br>
 
 ## COMO FUNCIONA?
-É um símples plugin onde o policial pode entrar ou sair de patrulha. Assim deixando de receber o seu salário quando estiver fora de patrulha.
+É um símples plugin onde o policial pode entrar ou sair de patrulha. Assim deixando de receber o seu salário quando não estiver em patrulhamento.
 <br>
 <br>
 O plugin é chamado através do comando **/patrulhar <sair/entrar>**, e apenas pode ser utilizado por um administrador ou um policial(permissões devem ser alteradas e configuradas no arquivo `config.lua`).
 <br>
 <br>
-Não se esqueça de criar o grupo do policial à paisana! Toda vez que ele digitar **/patrulhar sair** ele irá para um cargo à paisana. E só pode voltar a patrulhar se estiver com o cargo à paisana.
+OBS .: Não se esqueça de criar o grupo do policial à paisana! Toda vez que ele digitar **/patrulhar sair** ele irá para um cargo à paisana. E só pode voltar a patrulhar se estiver com o cargo de paisana.
 <br>
 <br>
 
